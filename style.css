@@ -1,0 +1,67 @@
+.cabecalho {
+    background-color: #4EBFE9;
+    color: #000000;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 24px 0;
+}
+.cabecalho-imagem{
+    width: 20%;
+}
+.cabecalho-lista-item{
+    display: inline-block;
+    margin: 0 16px;
+    font-size: 24px;
+}
+*{
+    margin: 0;
+    padding: 0;
+}
+.FozDoIguacu{
+    width: 25%;
+}
+.escola {
+    background-color: #4EBFE9;
+    color: black;
+    display: flex;
+
+    justify-content: center;
+    padding: 24px 0;
+}
+.escola-div-conteudo{
+    width: 35%;
+}
+.escola-titulo{
+    text-align: center;
+    padding: 24px 0;
+}
+body {
+    background-color: #4EBFE9;
+    font-family: 'Poppins' , sans-serif;
+}
+.estudante-titulo{
+    text-align: center;
+    padding: 50px 0;
+}
+.estudante-imagem{
+    width: 120px;
+}
+.estudante-div{
+    text-align: center;
+    padding: 16px 0;
+}
+.estudante-todos{
+    display: grid;
+    grid-template-columns: 20% 20% 20% 20% 20%;
+}
+.rodape{
+    background-color: black;
+    text-align: center;
+}
+
+.rodape-imagem{
+    height: 60px;
+    padding: 12px 0;
+
+}
